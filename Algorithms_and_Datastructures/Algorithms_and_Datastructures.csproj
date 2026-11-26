@@ -8,8 +8,8 @@
   </PropertyGroup>
 
 <ItemGroup>
-	<Compile Include="..\algorithms\sorting\merge-sort\csharp\MergeSort.cs"
-				Link="algorithms\sorting\merge-sort\csharp\MergeSort.cs" />
+	<Compile Include="..\algorithms\sorting\merge-sort\csharp\MergeSort.cs" Link="algorithms\sorting\merge-sort\csharp\MergeSort.cs" />
+    <Compile Include="..\algorithms\sorting\insertion-sort\csharp\InsertionSort.cs" Link="algorithms\sorting\insertion-sort\csharp\InsertionSort.cs" />
 </ItemGroup>
 
 </Project>
