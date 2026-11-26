@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
             // MergeSort.Run();
-            InsertionSort.Run();
+            // InsertionSort.Run();
+            OptimizedMergeSort.Run();
         }
     }
 }
