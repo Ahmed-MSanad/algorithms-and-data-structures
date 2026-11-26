@@ -11,6 +11,7 @@
 	<Compile Include="..\algorithms\sorting\merge-sort\csharp\MergeSort.cs" Link="algorithms\sorting\merge-sort\csharp\MergeSort.cs" />
     <Compile Include="..\algorithms\sorting\insertion-sort\csharp\InsertionSort.cs" Link="algorithms\sorting\insertion-sort\csharp\InsertionSort.cs" />
 	<Compile Include="..\algorithms\sorting\optimized-merge-sort\csharp\OptimizedMergeSort.cs" Link="algorithms\sorting\optimized-merge-sort\csharp\OptimizedMergeSort.cs" />
+	<Compile Include="..\algorithms\sorting\bubble-sort\csharp\BubbleSort.cs" Link="algorithms\sorting\bubble-sort\csharp\BubbleSort.cs" />
 </ItemGroup>
 
 </Project>
