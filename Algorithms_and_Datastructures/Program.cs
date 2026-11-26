@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-             MergeSort.Run();
+            // MergeSort.Run();
+            InsertionSort.Run();
         }
     }
 }
