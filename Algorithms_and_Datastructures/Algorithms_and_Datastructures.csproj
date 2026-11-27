@@ -14,6 +14,7 @@
 	<Compile Include="..\algorithms\sorting\bubble-sort\csharp\BubbleSort.cs" Link="algorithms\sorting\bubble-sort\csharp\BubbleSort.cs" />
 	<Compile Include="..\algorithms\sorting\selection-sort\csharp\SelectionSort.cs" Link="algorithms\sorting\selection-sort\csharp\SelectionSort.cs" />
 	<Compile Include="..\algorithms\sorting\heap-sort\csharp\HeapSort.cs" Link="algorithms\sorting\heap-sort\csharp\HeapSort.cs" />
+	<Compile Include="..\algorithms\sorting\quick-sort\csharp\QuickSort.cs" Link="algorithms\sorting\quick-sort\csharp\QuickSort.cs" />
 </ItemGroup>
 
 </Project>
