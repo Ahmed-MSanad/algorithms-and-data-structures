@@ -7,7 +7,8 @@
             // MergeSort.Run();
             // InsertionSort.Run();
             // OptimizedMergeSort.Run();
-            BubbleSort.Run();
+            // BubbleSort.Run();
+            SelectionSort.Run();
         }
     }
 }
